@@ -3,8 +3,6 @@
   KeyShotXR
   (c) Copyright 2012-2017 Luxion ApS - All Rights Reserved.
 -->
-
-<!DOCTYPE html>
 <html>
 <body>
 <h1>return 360</h1>
